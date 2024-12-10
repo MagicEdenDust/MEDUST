@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/MEDUST/static/css/main.99e75adc.chunk.css",
-    "main.js": "/MEDUST/static/js/main.812271b9.chunk.js",
-    "main.js.map": "/MEDUST/static/js/main.812271b9.chunk.js.map",
+    "main.js": "/MEDUST/static/js/main.0cc4cb29.chunk.js",
+    "main.js.map": "/MEDUST/static/js/main.0cc4cb29.chunk.js.map",
     "runtime-main.js": "/MEDUST/static/js/runtime-main.6bad2846.js",
     "runtime-main.js.map": "/MEDUST/static/js/runtime-main.6bad2846.js.map",
     "static/js/2.d9e70b6b.chunk.js": "/MEDUST/static/js/2.d9e70b6b.chunk.js",
     "static/js/2.d9e70b6b.chunk.js.map": "/MEDUST/static/js/2.d9e70b6b.chunk.js.map",
     "index.html": "/MEDUST/index.html",
-    "precache-manifest.3a77e8d30a216ed8ce9316c2e532c16a.js": "/MEDUST/precache-manifest.3a77e8d30a216ed8ce9316c2e532c16a.js",
+    "precache-manifest.9f77a9abff1818237bdad289d3fc1c8b.js": "/MEDUST/precache-manifest.9f77a9abff1818237bdad289d3fc1c8b.js",
     "service-worker.js": "/MEDUST/service-worker.js",
     "static/css/main.99e75adc.chunk.css.map": "/MEDUST/static/css/main.99e75adc.chunk.css.map",
     "static/js/2.d9e70b6b.chunk.js.LICENSE.txt": "/MEDUST/static/js/2.d9e70b6b.chunk.js.LICENSE.txt",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.6bad2846.js",
     "static/js/2.d9e70b6b.chunk.js",
     "static/css/main.99e75adc.chunk.css",
-    "static/js/main.812271b9.chunk.js"
+    "static/js/main.0cc4cb29.chunk.js"
   ]
 }

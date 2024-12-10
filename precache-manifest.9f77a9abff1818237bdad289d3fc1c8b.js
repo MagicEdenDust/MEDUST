@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eb9b16236554decd3f196f4b1d958ad6",
+    "revision": "a891676f8a839b95719b546444fc2593",
     "url": "/MEDUST/index.html"
   },
   {
-    "revision": "c84245f43053af2520a0",
+    "revision": "51bcb9a1c9c08084aa32",
     "url": "/MEDUST/static/css/main.99e75adc.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MEDUST/static/js/2.d9e70b6b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c84245f43053af2520a0",
-    "url": "/MEDUST/static/js/main.812271b9.chunk.js"
+    "revision": "51bcb9a1c9c08084aa32",
+    "url": "/MEDUST/static/js/main.0cc4cb29.chunk.js"
   },
   {
     "revision": "58e96c59125212e5a40d",
