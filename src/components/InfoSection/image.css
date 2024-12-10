@@ -1,0 +1,8 @@
+.hover-image {
+    transition: transform 0.2s; /* Animation */
+  }
+  
+  .hover-image:hover {
+    transform: scale(1.05); /* (1.05) means the image will scale to 105% of its original size */
+  }
+  
