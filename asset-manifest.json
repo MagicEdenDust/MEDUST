@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/MEDUST/static/css/main.99e75adc.chunk.css",
+    "main.js": "/MEDUST/static/js/main.812271b9.chunk.js",
+    "main.js.map": "/MEDUST/static/js/main.812271b9.chunk.js.map",
+    "runtime-main.js": "/MEDUST/static/js/runtime-main.6bad2846.js",
+    "runtime-main.js.map": "/MEDUST/static/js/runtime-main.6bad2846.js.map",
+    "static/js/2.d9e70b6b.chunk.js": "/MEDUST/static/js/2.d9e70b6b.chunk.js",
+    "static/js/2.d9e70b6b.chunk.js.map": "/MEDUST/static/js/2.d9e70b6b.chunk.js.map",
+    "index.html": "/MEDUST/index.html",
+    "precache-manifest.3a77e8d30a216ed8ce9316c2e532c16a.js": "/MEDUST/precache-manifest.3a77e8d30a216ed8ce9316c2e532c16a.js",
+    "service-worker.js": "/MEDUST/service-worker.js",
+    "static/css/main.99e75adc.chunk.css.map": "/MEDUST/static/css/main.99e75adc.chunk.css.map",
+    "static/js/2.d9e70b6b.chunk.js.LICENSE.txt": "/MEDUST/static/js/2.d9e70b6b.chunk.js.LICENSE.txt",
+    "static/media/App.png": "/MEDUST/static/media/App.bbab08a1.png",
+    "static/media/OrdiCo.mp4": "/MEDUST/static/media/OrdiCo.d6a8dfd0.mp4",
+    "static/media/OrdinalPassImage.png": "/MEDUST/static/media/OrdinalPassImage.db4999bc.png",
+    "static/media/dust.mp4": "/MEDUST/static/media/dust.12b3aa46.mp4",
+    "static/media/thisguy.png": "/MEDUST/static/media/thisguy.76d2fcdb.png",
+    "static/media/thisguy1.png": "/MEDUST/static/media/thisguy1.9d1e23c2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bad2846.js",
+    "static/js/2.d9e70b6b.chunk.js",
+    "static/css/main.99e75adc.chunk.css",
+    "static/js/main.812271b9.chunk.js"
+  ]
+}
